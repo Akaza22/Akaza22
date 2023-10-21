@@ -4,7 +4,7 @@ Perkenalkan nama saya **Bintang Nurfirdaus Suwardi**.<br>
 
 Saya adalah seorang **Mahasiswa** di [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).<br>
 
-Program Studi yang saya ambil yaitu Teknik Informatika [portofolio github](https://github.com/Akaza22).<br>
+Program Studi yang saya ambil yaitu Teknik Informatika.<br>
 
 Saya juga menjadi core member di Google Developer Student Clubs.<br>
 
