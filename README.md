@@ -2,11 +2,11 @@
 
 Perkenalkan nama saya **Bintang Nurfirdaus Suwardi**.<br>
 
-Saya seorang **Software Engineer** di [PT.Idemitsu Lubricants](https://www.idemitsulubricants.com/).<br>
+Saya adalah seorang **Mahasiswa** di [Universitas Islam Negeri Sunan Gunung Djati Bandung](https://uinsgd.ac.id/).<br>
 
-Saya bertanggung jawab pada pengembangan website PT Idemitsu dengan dibekali [portofolio github](https://github.com/Akaza22).<br>
+Program Studi yang saya ambil yaitu Teknik Informatika [portofolio github](https://github.com/Akaza22).<br>
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+Saya juga menjadi core member di Google Developer Student Clubs.<br>
 
 Jika kamu tertarik untuk berkenalan denganku,  silakan ikuti akun [Linkedin](https://www.linkedin.com/in/bintang-nurfirdaus-suwardi-773ba1290)ku ya.
 
