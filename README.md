@@ -69,5 +69,4 @@ a passionate, results-driven web developer with a strong commitment to deliverin
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
