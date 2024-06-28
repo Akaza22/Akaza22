@@ -57,7 +57,7 @@ a passionate, results-driven web developer with a strong commitment to deliverin
 
 <br/>  
 
-  
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akaza22&bg_color=000000&color=ffffff&line=0062ff&point=f0f0ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br/>  
 
