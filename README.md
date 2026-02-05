@@ -44,16 +44,7 @@ a passionate, results-driven web developer with a strong commitment to deliverin
 
 
 ## Github Stats  
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=Akaza22&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%;" />
-    </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akaza22&hide_border=true&layout=compact" align="left" style="width: 90%;" />
-    </td>
-  </tr>
-</table>   
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/Akaza22?cardType=level&theme=gotham&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)   
 
 <br/>  
 
